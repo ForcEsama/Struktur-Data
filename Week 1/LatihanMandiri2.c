@@ -19,7 +19,7 @@ bool isPalindromeRekursif(char str[], int start, int end)
 
 void judul()
 {
-    printf("Nama Program : Menghitung Jumlah Elemen Array Menggunakan Rekursi\n");
+    printf("Nama Program : Memeriksa Palindrom Menggunakan Rekursi\n");
     printf("Nama         : Dirgantara Anantathur\n");
     printf("Nim          : 24343032\n");
     printf("Prodi        : Teknik Informatika\n");
