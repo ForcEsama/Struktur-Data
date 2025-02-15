@@ -163,6 +163,7 @@ int main()
             }
             break;
         case 7:
+            printf("Anda keluar dari program!");
             return 0;
         default:
             printf("Pilihan tidak valid!\n");

@@ -99,8 +99,10 @@ int main()
             printf("Masukkan posisi nilai yang ingin dihapus: ");
             scanf("%d", &pos);
             hapusNilai(nilai, &size, pos - 1);
+            printf("Nilai berhasil dihapus!\n");
             break;
         case 5:
+            printf("Anda keluar dari program!");
             return 0;
         default:
             printf("Pilihan tidak valid!\n");
