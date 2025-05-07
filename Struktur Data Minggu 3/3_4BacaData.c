@@ -1,5 +1,5 @@
 /*
-Nama File      	: 3_4TambahData.c
+Nama File      	: 3_4BacaData.c
 Programmer      : Dirgantara Anantathur
 NIM             : 24343032
 Tgl. pembuatan  : 24/02/2025
